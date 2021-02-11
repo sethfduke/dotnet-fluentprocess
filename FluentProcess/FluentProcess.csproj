@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>netcoreapp3.1</TargetFramework>
+        <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+        <PackageVersion>1.0.0</PackageVersion>
+        <Title>FluentProcess</Title>
+        <Authors>Seth Duke</Authors>
+        <RootNamespace>FluentProcessBuilder</RootNamespace>
+        <Description>The FluentProcess library is sub-class of the Systems.Diagnostics.Process class and provides fluent style methods for building and executing a process without the need to separately define the StartInfo property. The construction and execution of a Process can be completed in a single line of code.</Description>
+        <Copyright>(c) 2021 Seth Duke</Copyright>
+        <PackageProjectUrl>https://github.com/sethfduke/dotnet-fluentprocess</PackageProjectUrl>
+        <PackageLicenseExpression>MIT</PackageLicenseExpression>
+        <RepositoryUrl>https://github.com/sethfduke/dotnet-fluentprocess</RepositoryUrl>
+        <RepositoryType>git</RepositoryType>
+    </PropertyGroup>
+
+</Project>
