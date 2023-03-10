@@ -1,9 +1,9 @@
 <Project Sdk="Microsoft.NET.Sdk">
 
     <PropertyGroup>
-        <TargetFramework>netcoreapp3.1</TargetFramework>
+        <TargetFramework>net6.0</TargetFramework>
         <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
-        <PackageVersion>1.0.0</PackageVersion>
+        <PackageVersion>1.1.0</PackageVersion>
         <Title>FluentProcess</Title>
         <Authors>Seth Duke</Authors>
         <RootNamespace>FluentProcessBuilder</RootNamespace>
@@ -13,6 +13,7 @@
         <PackageLicenseExpression>MIT</PackageLicenseExpression>
         <RepositoryUrl>https://github.com/sethfduke/dotnet-fluentprocess</RepositoryUrl>
         <RepositoryType>git</RepositoryType>
+        <LangVersion>11</LangVersion>
     </PropertyGroup>
 
 </Project>

@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>FluentProcess</id>
+    <version>1.1.0</version>
+    <title>FluentProcess</title>
+    <authors>Seth Duke</authors>
+    <license type="expression">MIT</license>
+    <licenseUrl>https://licenses.nuget.org/MIT</licenseUrl>
+    <projectUrl>https://github.com/sethfduke/dotnet-fluentprocess</projectUrl>
+    <description>The FluentProcess library is sub-class of the Systems.Diagnostics.Process class and provides fluent style methods for building and executing a process without the need to separately define the StartInfo property. The construction and execution of a Process can be completed in a single line of code.</description>
+    <copyright>(c) 2021 Seth Duke</copyright>
+    <repository type="git" url="https://github.com/sethfduke/dotnet-fluentprocess" />
+    <dependencies>
+      <group targetFramework="net6.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="E:\repos\dotnet-fluentprocess\FluentProcess\bin\Debug\net6.0\FluentProcess.dll" target="lib\net6.0\FluentProcess.dll" />
+  </files>
+</package>
