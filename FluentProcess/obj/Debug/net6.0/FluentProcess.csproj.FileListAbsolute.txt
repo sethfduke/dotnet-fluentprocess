@@ -1,0 +1,12 @@
+E:\repos\dotnet-fluentprocess\FluentProcess\bin\Debug\net6.0\FluentProcess.deps.json
+E:\repos\dotnet-fluentprocess\FluentProcess\bin\Debug\net6.0\FluentProcess.dll
+E:\repos\dotnet-fluentprocess\FluentProcess\bin\Debug\net6.0\FluentProcess.pdb
+E:\repos\dotnet-fluentprocess\FluentProcess\obj\Debug\net6.0\FluentProcess.csproj.AssemblyReference.cache
+E:\repos\dotnet-fluentprocess\FluentProcess\obj\Debug\net6.0\FluentProcess.GeneratedMSBuildEditorConfig.editorconfig
+E:\repos\dotnet-fluentprocess\FluentProcess\obj\Debug\net6.0\FluentProcess.AssemblyInfoInputs.cache
+E:\repos\dotnet-fluentprocess\FluentProcess\obj\Debug\net6.0\FluentProcess.AssemblyInfo.cs
+E:\repos\dotnet-fluentprocess\FluentProcess\obj\Debug\net6.0\FluentProcess.csproj.CoreCompileInputs.cache
+E:\repos\dotnet-fluentprocess\FluentProcess\obj\Debug\net6.0\FluentProcess.dll
+E:\repos\dotnet-fluentprocess\FluentProcess\obj\Debug\net6.0\refint\FluentProcess.dll
+E:\repos\dotnet-fluentprocess\FluentProcess\obj\Debug\net6.0\FluentProcess.pdb
+E:\repos\dotnet-fluentprocess\FluentProcess\obj\Debug\net6.0\ref\FluentProcess.dll
